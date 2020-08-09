@@ -1,0 +1,2 @@
+What is the outlook for endpoint security technology?
+Over the next few years, IDC foresees end users bombarded with multi-faceted threats from viruses, spyware, worms, Trojans, rootkits, adware, spam, and other sophisticated social engineering attacks. The trend is for threats to be more stealthy, targeted and malicious. Malware writers are no longer looking for bragging rights by bringing down the most number of machines in the shortest time. 
